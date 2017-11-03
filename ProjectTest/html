@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Nature Portfolio</title>
+	<link href="http://fonts.googleapis.com/css?family=Lato:100,300" rel="stylesheet" type="text/css">
+	<link rel="stylesheet"  href="css/bootstrap.css"></link>
+	<link rel="stylesheet"  href="css/style.css"></link>
+</head>
+<body>
+<div class="container">
+	<div class="row">
+		<div class="col-md-6">
+			<img class="title_logo" src="img/logo.png" alt="Udacity logo">
+		</div>
+		<div class="col-md-6 text-right text-uppercase">
+			<h1 class="title_super text_thin">Jane Doette</h1>
+			<h4>Front-end Ninja</h4>
+		</div>
+	</div>
+	<div class="row">
+	<div class="col-md-12">
+		<img class="img-responsive" src="img/nature.jpg" alt="Main Nature Image!">
+	</div>
+    </div>
+	<div class="row">
+	<div class="col-md-12">
+		<h2  class="text_muted">Featured Work</h2>
+	</div>
+    </div>
+    <div class="row text-center">
+	<div class="col-md-4">
+		<img class="img-responsive" src="img/nature1.jpg" alt=" Nature1 Image!">
+		<h3 class="text-uppercase">SunFlower</h3>
+		<p>https://github.com/udacity/SunFlower</p>
+	</div>
+		<div class="col-md-4">
+		<img class="img-responsive" src="img/nature2.jpg" alt=" Nature2 Image!">
+		<h3 class="text-uppercase">PinkFlower</h3>
+		<p>https://github.com/udacity/PinkFlower</p>
+	</div>
+		<div class="col-md-4">
+		<img class="img-responsive" src="img/nature3.jpg" alt=" Nature3 Image!">
+		<h3 class="text-uppercase">RedFlower</h3>
+		<p>https://github.com/udacity/RedFlower</p>
+	</div>
+    </div>
+  </div>
+ </body>
+</html>
